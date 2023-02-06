@@ -5,7 +5,9 @@ If you’d like to join our team, check out current vacancies [here](https://job
 
 ## What we do 
 Our team manages a wide range of products from outstanding globally recognised products like [SAGE Journals](https://journals.sagepub.com/) used by over 200 million researchers every year, to newer learning resources like [SAGE Research Methods](https://methods.sagepub.com/) and [SAGE Video](https://sk.sagepub.com/video/discipline) that are responding to new digital teaching & learning needs.  We also invest in transformational innovation, building  MVPs to test new ideas and emerging technology, such as AR, VR and ChatGTP, for tomorrow’s students and researchers. If you want to learn more check out this [Scholarly Kitchen interview with our VP Product Innovation](https://scholarlykitchen.sspnet.org/2021/12/20/sages-strategic-investments/). 
-
+<p align="center">
+![Picture1](https://user-images.githubusercontent.com/19975126/216976582-046ceeb0-a271-43ac-af68-587939b82757.jpg)
+</p>
 
 ## Do you...
 - care passionately about the importance of education and research to make our world a better place? 
@@ -15,14 +17,19 @@ Our team manages a wide range of products from outstanding globally recognised p
 
 
 ## We want to develop expert and empowered product people
-
-Description automatically generated with medium confidenceAs part of the Product Innovation team at SAGE you can build your career through experience across our broad range of learning and research products and also through our career progression opportunities with roles at Associate, Product, Snr Product and Head of positions within the team (and the mirror levels in UX!).  We recently build out a Product Management Academy that support skills development through a combination of in house training coupled with external courses and resources.  
+<p align="center">
+![Picture2](https://user-images.githubusercontent.com/19975126/216976695-4a134ff3-78b3-4bb4-8bf8-1d3ab0287dc5.jpg)
+</p> 
+As part of the Product Innovation team at SAGE you can build your career through experience across our broad range of learning and research products and also through our career progression opportunities with roles at Associate, Product, Snr Product and Head of positions within the team (and the mirror levels in UX!).  We recently build out a Product Management Academy that support skills development through a combination of in house training coupled with external courses and resources.  
 
 Our department sits within the wider Editorial group and works with pretty much every other department at SAGE from Marketing to Editorial to Finance to Customer Service, Circulation and Sales! Depending upon the product we sometimes work with in-house engineers, and sometimes with vendors.  We are a hybrid team with access to our London and Washington DC offices as well as support for remote working.
 
 Come and join Product Innovation! Check out current vacancies [here](https://jobs-uk-sagepub.icims.com/jobs/search?hashed=124491276&mobile=false&width=1260&height=500&bga=true&needsRedirect=false&jan1offset=0&jun1offset=60).  
 
 ## There are 5 teams in Product Innovation
+<p align="center">
+![image](https://user-images.githubusercontent.com/19975126/216983240-2e799595-0d28-4439-9dab-de1e5eae09f9.png)
+</p>
 
 ### Researcher Experience Product
 We are responsible for the researcher experience from journals submission to dissemination and doing research.
