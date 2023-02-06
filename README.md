@@ -1,4 +1,4 @@
-# Careers in Product Innovation at SAGE Publishing
+
 
 We are a team of product people and UX designers building high-quality, accessible products to educate learners, and to publish and disseminate research in Higher Education.  We love building bridges to knowledge!  
 If you’d like to join our team, check out current vacancies [here](https://jobs-uk-sagepub.icims.com/jobs/search?hashed=124491276&mobile=false&width=1260&height=500&bga=true&needsRedirect=false&jan1offset=0&jun1offset=60). 
