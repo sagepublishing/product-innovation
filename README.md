@@ -33,8 +33,8 @@ Come and join Product Innovation! Check out current vacancies [here](https://job
 ![image](https://user-images.githubusercontent.com/19975126/216983240-2e799595-0d28-4439-9dab-de1e5eae09f9.png)
 
 
-### Researcher Experience Product
-We are responsible for the researcher experience from journals submission to dissemination and doing research.
+### Researcher Experience Product Team
+We are responsible for the researcher online experience in our journal publishing, from article submission through to publication & dissemination, and supporting online research itself.
 ### Learning Resources Product Team 
 We are responsible for the new product development work and the online experience for our Learning Resources products.  They’re a complete suite of products for supercharging research, supporting student success and creating impact. 
 ### Transformational Product Team 
