@@ -3,7 +3,7 @@
 We are a team of product people and UX designers building high-quality, accessible products to educate learners, and to publish and disseminate research in Higher Education.  We love building bridges to knowledge!  
 If you’d like to join our team, check out current vacancies [here](https://jobs-uk-sagepub.icims.com/jobs/search?hashed=124491276&mobile=false&width=1260&height=500&bga=true&needsRedirect=false&jan1offset=0&jun1offset=60). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1hEhY1eG7zI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include youtube.html id="1hEhY1eG7zI" %}
 
 
 Learn more about working at SAGE [here](https://group.sagepub.com/careers). 
