@@ -5,7 +5,7 @@ If you’d like to join our team, check out current vacancies [here](https://job
 
 Learn more about working at SAGE [here](https://group.sagepub.com/careers). 
 
-{% include youtube.html id="1hEhY1eG7zI" %}
+{% include youtube.html id="HsYqhOrQ-98" %}
 
 
 ## What we do 
