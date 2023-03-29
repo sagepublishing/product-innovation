@@ -3,10 +3,10 @@
 We are a team of product people and UX designers building high-quality, accessible products to educate learners, and to publish and disseminate research in Higher Education.  We love building bridges to knowledge!  
 If you’d like to join our team, check out current vacancies [here](https://jobs-uk-sagepub.icims.com/jobs/search?hashed=124491276&mobile=false&width=1260&height=500&bga=true&needsRedirect=false&jan1offset=0&jun1offset=60). 
 
+Learn more about working at SAGE [here](https://group.sagepub.com/careers). 
+
 {% include youtube.html id="1hEhY1eG7zI" %}
 
-
-Learn more about working at SAGE [here](https://group.sagepub.com/careers). 
 
 ## What we do 
 Our team manages a wide range of products from outstanding globally recognised products like [SAGE Journals](https://journals.sagepub.com/) used by over 200 million researchers every year, to newer learning resources like [SAGE Research Methods](https://methods.sagepub.com/) and [SAGE Video](https://sk.sagepub.com/video/discipline) that are responding to new digital teaching & learning needs.  We also invest in transformational innovation, building  MVPs to test new ideas and emerging technology, such as AR, VR and ChatGTP, for tomorrow’s students and researchers. If you want to learn more check out this [Scholarly Kitchen interview with our VP Product Innovation](https://scholarlykitchen.sspnet.org/2021/12/20/sages-strategic-investments/). 
